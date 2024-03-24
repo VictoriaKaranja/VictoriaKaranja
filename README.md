@@ -5,8 +5,12 @@
 
 - <b>[Mastercard Phishing Simulation](https://github.com/VictoriaKaranja/Mastercard-Phishing-Simulation)
 
-- <b>[ANZ Social Engineering Simulation](https://github.com/VictoriaKaranja/ANZ-Social-Engineering-Simulation)<h2>👩‍🎓Certifications:</h2>
+- <b>[ANZ prt 1 Social Engineering Simulation](https://github.com/VictoriaKaranja/ANZ-Social-Engineering-Simulation)
+
+- <b>[ANZ prt 2 Network and Data Forensics](https://github.com/VictoriaKaranja/ANZ-Network-Data-Forensics)
   
+- <h2>👩‍🎓Certifications:</h2>
+
 - [Google Cybesecurity Professional Certificate](https://www.credly.com/badges/320feec6-157c-4a42-8d53-5e92019ad5ff/public_url)
 <h2>📺 Popular YouTube Videos</h2>
 
